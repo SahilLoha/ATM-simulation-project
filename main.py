@@ -30,5 +30,5 @@ if entered_pin ==pin:
             print("Invalid choice..!!")
 
 else:
-    print("Invalid choice..!!")
+    print("Invalid pin..!!")
 
